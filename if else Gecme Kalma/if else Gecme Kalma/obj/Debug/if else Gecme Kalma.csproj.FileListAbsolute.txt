@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Gecme Kalma\if else Gecme Kalma\bin\Debug\if else Gecme Kalma.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Gecme Kalma\if else Gecme Kalma\bin\Debug\if else Gecme Kalma.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Gecme Kalma\if else Gecme Kalma\bin\Debug\if else Gecme Kalma.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Gecme Kalma\if else Gecme Kalma\obj\Debug\if else Gecme Kalma.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Gecme Kalma\if else Gecme Kalma\obj\Debug\if else Gecme Kalma.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Gecme Kalma\if else Gecme Kalma\obj\Debug\if_else_Gecme_Kalma.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Gecme Kalma\if else Gecme Kalma\obj\Debug\if_else_Gecme_Kalma.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Gecme Kalma\if else Gecme Kalma\obj\Debug\if else Gecme Kalma.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Gecme Kalma\if else Gecme Kalma\obj\Debug\if else Gecme Kalma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Gecme Kalma\if else Gecme Kalma\obj\Debug\if else Gecme Kalma.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Gecme Kalma\if else Gecme Kalma\obj\Debug\if else Gecme Kalma.pdb
